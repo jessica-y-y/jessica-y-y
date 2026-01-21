@@ -1,4 +1,8 @@
 ## Hi, I'm Jéssica Yule!👋
 
-- 🔭 I’m a brazilian pharmacist currently working on improving my skills as DEV, because combining these two things is essential! 
-- 🌱 I’m currently learning CS50 - mostly Python, Javascript and Node.js
+- 🔭 I’m a brazilian pharmacist currently working on improving my skills as Web2 and web3 developer. 
+- 🌱 I’m currently learning:
+        💻  CS50 - mostly Python
+        💻  Javascript
+        💻 Node.js
+        💻 Web3 - blockchain, smart contracts and metaverse 

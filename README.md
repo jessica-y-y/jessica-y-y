@@ -2,12 +2,12 @@
 ⚕️🔬💻 A pharmacist in tech!
 
 - ✅💻 Web3 - blockchain, smart contracts and metaverse (through the Ministry of Science, Technology and Innovation - MCTI, Softex, and the Institute for Management, Technological Networks and Energy)
+- ✅💻 JavaScript: Fundamentals for Interactive Web Development (Federal Institute of Rio Grande do Sul)
+- ✅💻 Node.js: Introduction to Modern API Development (Federal Institute of Rio Grande do Sul)
 
 - 🔜 Working on:
         - 🧑‍💻  CS50 (Harvard and edX)
         - 🧑‍💻  IT Project Management (post-graduation)
-        - 🧑‍💻  JavaScript: Fundamentals for Interactive Web Development (Federal Institute of Rio Grande do Sul)
-        - 🧑‍💻  Node.js: Introduction to Modern API Development (Federal Institute of Rio Grande do Sul)
         - 🧑‍💻  SCRUM MASTER Certification
 
 📚📝 Detailed information:
